@@ -1,0 +1,12 @@
+[submodule "vendor/ogg"]
+	path = vendor/ogg
+	url = https://github.com/xiph/ogg.git
+[submodule "vendor/opus"]
+	path = vendor/opus
+	url = https://github.com/xiph/opus.git
+[submodule "vendor/opusfile"]
+	path = vendor/opusfile
+	url = https://github.com/xiph/opusfile.git
+[submodule "vendor/librw"]
+	path = vendor/librw
+	url = https://github.com/aap/librw.git
