@@ -1,4 +1,4 @@
-<a href="https://discord.gg/qwUwqKfszS"><img src="https://img.shields.io/badge/discord-join-7289DA.svg?logo=discord&longCache=true&style=flat" /></a>
+<a href="https://discord.gg/arEPW5fedg"><img src="https://img.shields.io/badge/discord-join-7289DA.svg?logo=discord&longCache=true&style=flat" /></a>
 
 # reStories
 
